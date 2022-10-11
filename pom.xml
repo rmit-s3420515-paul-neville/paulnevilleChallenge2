@@ -5,7 +5,10 @@
   <groupId>com.paulneville.challenge2</groupId>
   <artifactId>fundmanagement</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <modules>
+    <module>person</module>
+  </modules>
+  <packaging>pom</packaging>
 
   <name>fund management</name>
   <url>http://maven.apache.org</url>
