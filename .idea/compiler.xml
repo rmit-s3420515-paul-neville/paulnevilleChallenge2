@@ -8,7 +8,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="fundsmanagement" />
-        <module name="paulnevilleChallenge2" />
+        <module name="person" />
+        <module name="account" />
       </profile>
     </annotationProcessing>
   </component>
