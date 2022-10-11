@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="fundsmanagement" />
         <module name="person" />
+        <module name="account" />
       </profile>
     </annotationProcessing>
   </component>
